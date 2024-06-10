@@ -1,17 +1,3 @@
-<h1>Features</h1>
-- <h3>Sections:</h3>
-  - Recent projects
-  - Testimonials
-  - Work experience
-  - My Approach
-- <h3>Acernity UI Components:</h3>
-  - Text generation effect
-  - Acernity’s Bento Grid
-  - Floating navigation bar
-  - A rotatable globe
-  - Infinite moving cards
-  - Magic buttons with moving borders
-  - Spotlight effect
 
 <h1>Features</h1>
 - <h4>Projects:</h4> A detailed overview of my recent projects, including descriptions, technologies used, and links to live demos or source code.
@@ -22,7 +8,7 @@
 
 <h1>My Learnings</h1>
 
-## Next.js
+# Next.js
 
 Next.js is a React framework that enables functionality such as server-side rendering and generating static websites for React based web applications. Some key points I've learned about Next.js include:
 
