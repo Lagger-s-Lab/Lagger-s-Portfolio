@@ -15,10 +15,10 @@
 
 
 **Learnings**
-| Column 1    | Column 2    |
+
 |-------------|-------------|
-| - React.js  | - Typescript  |
-| - Next.js  | - Tailwind  |
+| React.js  | Typescript  |
+| Next.js  | Tailwind  |
 
 **Screenshots**
 ![image](https://github.com/Lagger-s-Lab/Lagger-s-Portfolio/assets/172105915/d799a9f8-503a-42f6-b901-b9fd3742f32b)
