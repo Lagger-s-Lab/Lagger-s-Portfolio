@@ -15,7 +15,7 @@
 
 
 **Learnings**
-
+| Libraries & Frameworks    | Others    |
 |-------------|-------------|
 | React.js  | Typescript  |
 | Next.js  | Tailwind  |
