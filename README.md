@@ -15,10 +15,13 @@
 
 
 **Learnings**
-| Libraries & Frameworks    | Others    |
-|-------------|-------------|
-| React.js  | Typescript  |
-| Next.js  | Tailwind  |
+| Libraries & Frameworks    | Column 2    | Column 3    |
+|-------------|-------------|-------------|
+| React.js  | Typescript  | Portfolio presentation  |
+| Next.js  | Tailwind  | Professionalism  |
+| Next.js  | Git  | Professionalism  |
+
+
 
 **Screenshots**
 ![image](https://github.com/Lagger-s-Lab/Lagger-s-Portfolio/assets/172105915/d799a9f8-503a-42f6-b901-b9fd3742f32b)
