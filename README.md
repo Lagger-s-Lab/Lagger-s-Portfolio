@@ -1,17 +1,17 @@
 **Features**
-•	Sections:
-        o	Recent projects
-        o	Testimonials
-        o	Work experience
-        o	My Approach
-•	Acernity UI Components:
-        o	Text generation effect
-        o	Acernity’s Bento Grid
-        o	Floating navigation bar
-        o	A rotatable globe
-        o	Infinite moving cards
-        o	Magic buttons with moving borders
-        o	Spotlight effect
+- Sections:
+        - Recent projects
+        - Testimonials
+        - Work experience
+        - My Approach
+- Acernity UI Components:
+        - Text generation effect
+        - Acernity’s Bento Grid
+        - Floating navigation bar
+        - A rotatable globe
+        - Infinite moving cards
+        - Magic buttons with moving borders
+        - Spotlight effect
 
 
 **Learnings**
