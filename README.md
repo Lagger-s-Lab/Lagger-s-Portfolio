@@ -1,10 +1,10 @@
-**Features**
-- Sections:
+<h1>Features</h1>
+- <h3>Sections:</h3>
   - Recent projects
   - Testimonials
   - Work experience
   - My Approach
-- Acernity UI Components:
+- <h3>Acernity UI Components:</h3>
   - Text generation effect
   - Acernity’s Bento Grid
   - Floating navigation bar
@@ -13,17 +13,55 @@
   - Magic buttons with moving borders
   - Spotlight effect
 
-
-**Learnings**
-| Libraries & Frameworks    | Column 2    | Column 3    |
-|-------------|-------------|-------------|
-| React.js  | Typescript  | Portfolio presentation  |
-| Next.js  | Tailwind  | Professionalism  |
-| Next.js  | Git  | Professionalism  |
+<h1>Features</h1>
+- <h4>Projects:</h4> A detailed overview of my recent projects, including descriptions, technologies used, and links to live demos or source code.
+- <h4>Work Experience:</h4> A timeline of my professional experience, highlighting key roles and responsibilities.
+- <h4>Approach:</h4> An insight into my development philosophy and the methodologies I follow.
+- <h4>Contact:</h4> Easy access to my contact information and a form to get in touch with me directly.
 
 
+<h1>My Learnings</h1>
 
-**Screenshots**
+## Next.js
+
+Next.js is a React framework that enables functionality such as server-side rendering and generating static websites for React based web applications. Some key points I've learned about Next.js include:
+
+- Server-side rendering (SSR) for improved performance and SEO.
+- Static site generation (SSG) for generating pre-rendered HTML pages at build time.
+- API routes for building API endpoints within the same Next.js application.
+- Automatic code splitting for optimized loading of JavaScript bundles.
+
+## Tailwind CSS
+
+Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs without writing custom CSS. Here are some of my learnings about Tailwind CSS:
+
+- Utility-first approach allows for rapid prototyping and consistent design.
+- Responsive design made easy with built-in classes like `sm:`, `md:`, `lg:`, etc.
+- Customization options using Tailwind configuration file for colors, spacing, and more.
+- JIT mode for just-in-time compilation to reduce CSS bundle size.
+
+## Git
+
+Git is a distributed version control system used for tracking changes in source code during software development. Here's what I've learned about Git:
+
+- Basics of Git workflow including `git init`, `git add`, `git commit`, and `git push`.
+- Branching and merging strategies for collaborative development.
+- Using Git tags for versioning releases.
+- Resolving merge conflicts and reverting changes with Git commands.
+
+## TypeScript
+
+TypeScript is a superset of JavaScript that adds static typing to the language. It helps catch errors early during development and improves code quality and maintainability. Some key learnings about TypeScript include:
+
+- Declaring types using primitives, interfaces, enums, and unions.
+- Strict mode for enforcing stricter type checking.
+- Type inference to automatically infer types based on usage.
+- Integrating TypeScript with popular frameworks like React and Node.js.
+
+
+
+
+<h1>Screenshots</h1>
 ![image](https://github.com/Lagger-s-Lab/Lagger-s-Portfolio/assets/172105915/d799a9f8-503a-42f6-b901-b9fd3742f32b)
 ![image](https://github.com/Lagger-s-Lab/Lagger-s-Portfolio/assets/172105915/40d90277-fa41-4a0e-b5d7-623dc5b7e0c2)
 ![image](https://github.com/Lagger-s-Lab/Lagger-s-Portfolio/assets/172105915/683f7d2b-0c4a-4c1e-9c68-4789a55fd04c)
