@@ -1,4 +1,5 @@
-
+<p>This is my personal portfolio website built with Next.js, showcasing my recent projects, work experience, development approach, and contact details. It provides an overview of my work through detailed project descriptions, a timeline of my professional roles, insights into my methodologies, and easy access to my contact information. The site is styled with CSS/Styled Components and deployed on Vercel. To explore or contribute, clone the repository, install dependencies, and start the development server.</p>
+<br><br>
 <h1>Features</h1>
 <h4>Projects:</h4> A detailed overview of my recent projects, including descriptions, technologies used, and links to live demos or source code.
 - <h4>Work Experience:</h4> A timeline of my professional experience, highlighting key roles and responsibilities.
@@ -44,7 +45,7 @@ TypeScript is a superset of JavaScript that adds static typing to the language. 
 - Type inference to automatically infer types based on usage.
 - Integrating TypeScript with popular frameworks like React and Node.js.
 
-
+<h1>Open https://lagger-s-portfolio-q848-git-main-aown-aamirs-projects.vercel.app/</h1>
 
 
 <h1>Screenshots</h1>
