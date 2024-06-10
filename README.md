@@ -45,7 +45,7 @@ TypeScript is a superset of JavaScript that adds static typing to the language. 
 - Type inference to automatically infer types based on usage.
 - Integrating TypeScript with popular frameworks like React and Node.js.
 
-<h1>Open https://lagger-s-portfolio-q848-git-main-aown-aamirs-projects.vercel.app/</h1>
+<h3>Open https://lagger-s-portfolio-q848-git-main-aown-aamirs-projects.vercel.app/</h3>
 
 
 <h1>Screenshots</h1>
