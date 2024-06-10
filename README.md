@@ -1,6 +1,6 @@
 
 <h1>Features</h1>
-- <h4>Projects:</h4> A detailed overview of my recent projects, including descriptions, technologies used, and links to live demos or source code.
+<h4>Projects:</h4> A detailed overview of my recent projects, including descriptions, technologies used, and links to live demos or source code.
 - <h4>Work Experience:</h4> A timeline of my professional experience, highlighting key roles and responsibilities.
 - <h4>Approach:</h4> An insight into my development philosophy and the methodologies I follow.
 - <h4>Contact:</h4> Easy access to my contact information and a form to get in touch with me directly.
